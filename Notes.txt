@@ -1,0 +1,8 @@
+Notes
+Allison Anson
+Created: 2024-08-11
+Updated: 2024-08-11
+
+Documentation: 
+- git conventional commits 
+    - make it required?
